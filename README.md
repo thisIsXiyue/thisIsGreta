@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thisIsGreta
 - 🐞 I’m interested in the Beatles...
-- 🌱 I’m currently learning Data Science...(was a law student)
+- 🌱 I’m currently learning data science...(was a law student)
 - 📫 Email: gretapfel@outlook.com
 
 <!---
