@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thisIsGreta
-- 🐞 I’m interested in the Beatles...
 - 🌱 I’m currently learning data science...(was a law student)
-- 📫 Email: gretapfel@outlook.com
+- 📫 Email: xiyuezhang1231@gmail.com
 
 <!---
 thisIsGreta/thisIsGreta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
